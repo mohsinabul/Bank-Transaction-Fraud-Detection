@@ -58,8 +58,8 @@ The results, visualizations, and code snippets are documented in a LaTeX-based a
 
 ✍️ Author
 
-Abul Mohsin
-MSc Data Analytics — Atlantic Technological University
+Abul Mohsin |
+MSc Data Analytics — Atlantic Technological University |
 📧 Email: l00187574@atu.ie
 
 If you like this project, feel free to ⭐ star the repository!
