@@ -1,57 +1,60 @@
 🚀 Fraud Detection in Financial Transactions using Deep Learning
 
-A comparative study using CNN, LSTM, and Random Forest models to detect fraudulent financial transactions.
+   A comparative study using CNN, LSTM, and Random Forest models to detect fraudulent financial transactions.
 
 📂 Project Overview
-This project explores how different machine learning and deep learning models can detect fraud in highly imbalanced financial datasets.
-We compare:
+    This project explores how different machine learning and deep learning models can detect fraud in highly imbalanced financial datasets.
+    We compare:
 
-🧠 Convolutional Neural Networks (CNNs)
+    🧠 Convolutional Neural Networks (CNNs)
 
-🧩 Long Short-Term Memory Networks (LSTMs)
+    🧩 Long Short-Term Memory Networks (LSTMs)
 
-🌳 Random Forest Classifier (baseline)
+    🌳 Random Forest Classifier (baseline)
 
 The results, visualizations, and code snippets are documented in a LaTeX-based academic report.
 
 🛠 Features
-Data Preprocessing
 
-Feature scaling
+  1. Data Preprocessing
 
-Feature selection
+  2. Feature scaling
 
-SMOTE oversampling for class balance
+  3. Feature selection
 
-Model Building
+  4. SMOTE oversampling for class balance
 
-CNN architecture for spatial data patterns
+  5. Model Building
 
-LSTM for sequential patterns
+  6. CNN architecture for spatial data patterns
 
-Random Forest as a classical ML baseline
+  7. LSTM for sequential patterns
 
-Evaluation
+  8. Random Forest as a classical ML baseline
 
-5-Fold Cross-Validation
+  9. Evaluation
 
-Precision, Recall, and Confusion Matrix
+  10. 5-Fold Cross-Validation
 
-Feature importance plots
+  11. Precision, Recall, and Confusion Matrix
+
+  12. Feature importance plots
 
 📈 Key Insights
-CNN delivered the best overall accuracy and training speed.
 
-LSTM models performed well but had higher computational costs.
+  1. CNN delivered the best overall accuracy and training speed.
 
-Random Forest provided strong baseline performance without GPU needs.
+  2. LSTM models performed well but had higher computational costs.
 
-SMOTE significantly improved recall on minority (fraudulent) class.
+  3. Random Forest provided strong baseline performance without GPU needs.
+
+  4. SMOTE significantly improved recall on minority (fraudulent) class.
 
 🔥 Future Directions
-Develop hybrid CNN-LSTM models for improved learning of spatial and temporal patterns.
 
-Integrate explainable AI tools (SHAP, LIME) for model interpretability.
+  1. Develop hybrid CNN-LSTM models for improved learning of spatial and temporal patterns.
+
+  2. Integrate explainable AI tools (SHAP, LIME) for model interpretability.
 
 ✍️ Author
 Abul Mohsin
